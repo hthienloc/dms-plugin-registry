@@ -5,7 +5,7 @@
     "category": "utilities",
     "repo": "https://github.com/hthienloc/dms-media-downloader",
     "author": "Loc Huynh",
-    "description": "Feature-rich media downloader inspired by Parabolic. Powered by yt-dlp.",
+    "description": "Download audio and video from web links using yt-dlp",
     "dependencies": ["yt-dlp", "ffmpeg"],
     "compositors": ["any"],
     "distro": ["any"],

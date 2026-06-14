@@ -1,0 +1,12 @@
+{
+    "id": "mediaDownloader",
+    "name": "Media Downloader",
+    "capabilities": ["dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/hthienloc/dms-media-downloader",
+    "author": "Loc Huynh",
+    "description": "Feature-rich media downloader inspired by Parabolic. Supports high-quality video and audio extraction via yt-dlp.",
+    "dependencies": ["yt-dlp", "ffmpeg"],
+    "compositors": ["any"],
+    "distro": ["any"]
+}
